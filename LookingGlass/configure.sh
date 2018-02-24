@@ -7,7 +7,7 @@
 # copyright   2015 Nick Adams.
 # link        http://iamtelephone.com
 # license     http://opensource.org/licenses/MIT MIT License
-# version     1.3.0
+# version     1.3.2
 ################################
 
 #######################
@@ -31,7 +31,7 @@ function createConfig()
  * @copyright   2015 Nick Adams.
  * @link        http://iamtelephone.com
  * @license     http://opensource.org/licenses/MIT MIT License
- * @version     1.3.0
+ * @version     1.3.2
  */
 
 // IPv4 address
